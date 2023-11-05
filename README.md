@@ -1,6 +1,7 @@
 X-33 RO Configs for the Mod Mk-33 made by Angel-125 of "Wild Blue Industries"
 
 -Drag and drop the included file anywhere into gamedata
+
 -for support message me on the RO discord server
 ![screenshot17](https://github.com/RaptorMM/X-33-RO/assets/101530963/edaa2ec2-6165-4e37-ac5f-d08d3968fa51)
 
